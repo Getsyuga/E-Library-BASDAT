@@ -1,0 +1,126 @@
+<div>
+  <div class="w-full overflow-hidden max-w-[1440px] box-border items-start flex-col justify-start bg-[linear-gradient(-32deg,_#4ec2f4_0%,_#f6fafc_100%)]">
+    <div class="w-full max-w-[1440px] box-border items-start flex-col justify-start">
+      <div class="w-full max-w-[108px] box-border items-start flex-col justify-start">
+        <div class="w-full max-w-[121px] mt-0 min-h-[29px] text-left mb-0"><p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto_Slab',_serif] font-normal mb-0 tracking-[0px] normal-case">Profil</p></div>
+      </div>
+      <div class="w-full max-w-[109px] mt-0 min-h-[29px] text-left mb-0">
+        <p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto_Slab',_serif] font-normal mb-0 tracking-[0px] normal-case">Beranda</p>
+      </div>
+      <div class="w-full max-w-[142px] mt-0 min-h-[29px] text-left mb-0">
+        <p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto_Slab',_serif] font-normal mb-0 tracking-[0px] normal-case">Daftar Buku</p>
+      </div>
+      <div class="w-full max-w-[145px] mt-0 min-h-[29px] text-left mb-0">
+        <p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto_Slab',_serif] font-normal mb-0 tracking-[0px] normal-case">Pelayanan</p>
+      </div>
+      <div class="w-full max-w-[166px] mt-0 min-h-[29px] text-left mb-0">
+        <p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto_Slab',_serif] font-normal mb-0 tracking-[0px] normal-case">Daftar/Masuk</p>
+      </div>
+    </div>
+    <div class="w-full max-w-[277px] box-border items-start flex-col justify-start">
+      <div class="w-full max-w-[277px] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[33px] mb-0 tracking-[0px] normal-case">Pintar Membaca</p>
+        <p class="text-[#000000] text-[12px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[16px] mb-0 tracking-[0px] normal-case">Juliana Silva</p>
+      </div>
+      <div class="w-full max-w-[277px] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[19px] mb-0 tracking-[0px] normal-case">Baca Sekarang &gt;&gt;</p>
+      </div>
+      <img
+        src="./assets/I51150331.jpg"
+        alt="rectangle"
+        width="277"
+        height="398.7449951171875"
+        class="w-full h-auto m-0 block max-w-[277px]"
+        />
+    </div>
+    <div class="w-full max-w-[277px] box-border items-start flex-col justify-start">
+      <div class="w-full max-w-[277px] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[20px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[27px] mb-0 tracking-[0px] normal-case">
+          Perspektif Pendidikan dalam Bingkai Ilmu dan Tokoh
+        </p>
+        <p class="text-[#000000] text-[12px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[16px] mb-0 tracking-[0px] normal-case">Kurniawan</p>
+      </div>
+      <div class="w-full max-w-[277px] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[19px] mb-0 tracking-[0px] normal-case">Baca Sekarang &gt;&gt;</p>
+      </div>
+      <img
+        src="./assets/I62140331.jpg"
+        alt="rectangle"
+        width="277"
+        height="398.7449951171875"
+        class="w-full h-auto m-0 block max-w-[277px]"
+        />
+    </div>
+    <div class="w-full max-w-[277px] box-border items-start flex-col justify-start">
+      <div class="w-full max-w-[277px] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[33px] mb-0 tracking-[0px] normal-case">Pulang</p>
+        <p class="text-[#000000] text-[12px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[16px] mb-0 tracking-[0px] normal-case">Tere Liye</p>
+      </div>
+      <div class="w-full max-w-[277px] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[19px] mb-0 tracking-[0px] normal-case">Baca Sekarang&gt;&gt;</p>
+      </div>
+      <img
+        src="./assets/I62180331.jpg"
+        alt="rectangle"
+        width="277"
+        height="398.7449951171875"
+        class="w-full h-auto m-0 block max-w-[277px]"
+        />
+    </div>
+    <div class="w-full max-w-[1440px] box-border items-start flex-col justify-start">
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[24px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-bold mb-0 tracking-[0px] uppercase">Trade</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-bold leading-[20px] mb-0 tracking-[0px] normal-case">Books</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Books</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">© 2023 — 2090</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Privacy — Terms</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">E-Books</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Sheets</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Read</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">VIew</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0"><p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Buy</p></div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Library</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">International</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Illuminati</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Gramedia</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">Sinar Dunia</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-normal leading-[20px] mb-0 tracking-[0px] normal-case">National Indonesia</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-bold leading-[20px] mb-0 tracking-[0px] normal-case">Features</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-bold leading-[20px] mb-0 tracking-[0px] normal-case">Resources</p>
+      </div>
+      <div class="w-full max-w-[auto] mt-0 min-h-[auto] text-left mb-0">
+        <p class="text-[#000000] text-[14px] not-italic mt-0 text-left font-['Roboto',_sans-serif] font-bold leading-[20px] mb-0 tracking-[0px] normal-case">Company</p>
+      </div>
+    </div>
+    <div class="w-full max-w-[1063.97705078125px] mt-0 min-h-[100px] text-center mb-0">
+      <p class="text-[#000000] text-[50px] not-italic mt-0 text-center font-['Roboto',_sans-serif] font-bold mb-0 tracking-[0px] normal-case">Baru Ditambahkan</p>
+    </div>
+    <div class="w-full max-w-[1063.97705078125px] mt-0 min-h-[100px] text-center mb-0">
+      <p class="text-[#000000] text-[50px] not-italic mt-0 text-center font-['Roboto',_sans-serif] font-bold mb-0 tracking-[0px] normal-case">Eksplorasi Bukumu Disini</p>
+      <p class="mt-0 text-center mb-0"><br /></p>
+      <p class="text-[#000000] text-[30px] not-italic mt-0 text-center font-['Roboto',_sans-serif] font-normal mb-0 tracking-[0px] normal-case">
+        Libraries store the energy that fuels the imagination.
+      </p>
+    </div>
+  </div>
+</div>
